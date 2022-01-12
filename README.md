@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://66.media.tumblr.com/aa2ad65e21ad1c5dc386c3c7fa172db3/tumblr_old81jgcjH1veydt5o1_400.gifv">
+  <img height="200px" width="500px" src="https://66.media.tumblr.com/aa2ad65e21ad1c5dc386c3c7fa172db3/tumblr_old81jgcjH1veydt5o1_400.gifv">
 <p/>
  
 <ul type="disc">
@@ -11,7 +11,7 @@
  </ul>
  
  <p align="center">
-  <img height="200px" width="500px" src="https://github-readme-stats.vercel.app/api?username=GabrielPereira12&show_icons=true&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielPereira12&show_icons=true&theme=midnight-purple">
 <p/>
 <!--
 **GabrielPereira12/GabrielPereira12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
