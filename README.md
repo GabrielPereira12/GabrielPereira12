@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="200px" width="500px" src="https://66.media.tumblr.com/aa2ad65e21ad1c5dc386c3c7fa172db3/tumblr_old81jgcjH1veydt5o1_400.gifv">
+  <img height="200px" width="700px" src="https://66.media.tumblr.com/aa2ad65e21ad1c5dc386c3c7fa172db3/tumblr_old81jgcjH1veydt5o1_400.gifv">
 <p/>
  
 <ul type="disc">
