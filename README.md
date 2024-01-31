@@ -3,8 +3,8 @@
 <p/>
  
 <ul type="disc">
-  <li>Name: Gabriel do Prado Pereira</li>
-  <li>Age: 17</li>
+  <li>Name: Gabriel Pereira</li>
+  <li>Age: 19</li>
   <li>Sex: Male</li>
   <li>Nationality: Brazil</li>
   <li>Country: Portugal</li>
